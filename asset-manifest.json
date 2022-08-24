@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.38218f47.css",
-    "main.js": "/static/js/main.b82112b3.js",
-    "static/js/787.0992c180.chunk.js": "/static/js/787.0992c180.chunk.js",
-    "index.html": "/index.html",
-    "main.38218f47.css.map": "/static/css/main.38218f47.css.map",
-    "main.b82112b3.js.map": "/static/js/main.b82112b3.js.map",
-    "787.0992c180.chunk.js.map": "/static/js/787.0992c180.chunk.js.map"
+    "main.css": "https://devendrakumar499.github.io/live-location/static/css/main.38218f47.css",
+    "main.js": "https://devendrakumar499.github.io/live-location/static/js/main.3229f223.js",
+    "static/js/787.0992c180.chunk.js": "https://devendrakumar499.github.io/live-location/static/js/787.0992c180.chunk.js",
+    "index.html": "https://devendrakumar499.github.io/live-location/index.html",
+    "main.38218f47.css.map": "https://devendrakumar499.github.io/live-location/static/css/main.38218f47.css.map",
+    "main.3229f223.js.map": "https://devendrakumar499.github.io/live-location/static/js/main.3229f223.js.map",
+    "787.0992c180.chunk.js.map": "https://devendrakumar499.github.io/live-location/static/js/787.0992c180.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38218f47.css",
-    "static/js/main.b82112b3.js"
+    "static/js/main.3229f223.js"
   ]
 }
